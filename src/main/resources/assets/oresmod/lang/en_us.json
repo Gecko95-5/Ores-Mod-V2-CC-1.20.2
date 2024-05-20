@@ -917,11 +917,7 @@
   "biome.oresmod.white_dunes": "White Sand Dunes",
   "biome.oresmod.black_sand_beach": "Black Sand Beach",
 
-  "itemgroup.ores_mod_ores": "OOM Ores & Materials",
-  "itemgroup.ores_mod_tools": "OOM Tools & Weapons",
-  "itemgroup.ores_mod_other_blocks": "OOM Other Blocks",
-  "itemgroup.ores_mod_other": "OOM Other Stuff",
-  "itemgroup.ores_mod_mobs": "OOM Mobs & Trophies",
+  "itemgroup.ores_mod_ores": "Overwhelming Ores Mod",
 
   "tooltip.oresmod.modded_upgrade_smithing_template_1": "Ingredients:",
   "tooltip.oresmod.modded_upgrade_smithing_template_2": "Applies to:",
