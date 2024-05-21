@@ -1,4 +1,4 @@
-// 1.20.2	2024-05-20T14:26:52.2767619	Overwhelming Ores Mod/Block Loot Tables
+// 1.20.2	2024-05-20T23:51:44.7356824	Overwhelming Ores Mod/Block Loot Tables
 27a4e742deb297d533e51f8b6a73707dbba3f368 data\oresmod\loot_tables\blocks\cobblestone_aluminum_ore.json
 822e8533ec8852e5c77d8b388a01f856f8ece2b0 data\oresmod\loot_tables\blocks\rusted_steel_trapdoor.json
 21e70601aa1f2e29aa9908c6871560c8376ec2f1 data\oresmod\loot_tables\blocks\light_frosite_tile_stairs.json
@@ -162,8 +162,8 @@ e5edc2aae275a8a3bf5aa506a3a6d2d959027784 data\oresmod\loot_tables\blocks\end_ite
 354db48649e87d414b335cd5a5d431994bbe47d8 data\oresmod\loot_tables\blocks\light_leafite_block.json
 4d738c2bcb95d139d4ff89daebdbbd60c505d720 data\oresmod\loot_tables\blocks\light_end_ite_brick_slab.json
 b413327082e5d20011e5522297999118d40bc4c0 data\oresmod\loot_tables\blocks\leafite_planks.json
-edc67d3ab4c5adc6286006f9f5d60d4d8ad9417b data\oresmod\loot_tables\blocks\cut_steel.json
 310ca30e250282bc5a8a985f6e1cfc8642d525e0 data\oresmod\loot_tables\blocks\light_end_ite_tile_wall.json
+edc67d3ab4c5adc6286006f9f5d60d4d8ad9417b data\oresmod\loot_tables\blocks\cut_steel.json
 d1705778e2bc216330dbc4be0a0a54d25e140efd data\oresmod\loot_tables\blocks\chiseled_marble.json
 2a4a603d97ffc5aa446e7a352285229ca575d99e data\oresmod\loot_tables\blocks\silverwyrm_trophy.json
 7d9339f9a7f3f195d4180397321ad8435fa9dd99 data\oresmod\loot_tables\blocks\marble_brick_wall.json
