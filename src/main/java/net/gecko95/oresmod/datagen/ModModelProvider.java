@@ -107,6 +107,7 @@ public class ModModelProvider extends FabricModelProvider {
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.COBBLESTONE_NICKEL_ORE);
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.COBBLESTONE_TITANIUM_ORE);
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.COBBLESTONE_QUARTZ_ORE);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.COBBLESTONE_FROSITE_ORE);
         BlockStateModelGenerator.BlockTexturePool marblePool = blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.MARBLE);
         BlockStateModelGenerator.BlockTexturePool marblebrickPool = blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.MARBLE_BRICKS);
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.GILDED_MARBLE);
@@ -191,6 +192,7 @@ public class ModModelProvider extends FabricModelProvider {
         blockStateModelGenerator.registerFlowerPotPlant(ModBlocks.DEEPBARK_SAPLING, ModBlocks.POTTED_DEEPBARK_SAPLING, BlockStateModelGenerator.TintType.NOT_TINTED);
         blockStateModelGenerator.registerFlowerPotPlant(ModBlocks.LEAFITE_SAPLING, ModBlocks.POTTED_LEAFITE_SAPLING, BlockStateModelGenerator.TintType.NOT_TINTED);
         blockStateModelGenerator.registerFlowerPotPlant(ModBlocks.ICY_CROCUS, ModBlocks.POTTED_ICY_CROCUS, BlockStateModelGenerator.TintType.NOT_TINTED);
+        blockStateModelGenerator.registerFlowerPotPlant(ModBlocks.SILVER_ROSE, ModBlocks.POTTED_SILVER_ROSE, BlockStateModelGenerator.TintType.NOT_TINTED);
 
         frostbrickPool.stairs(ModBlocks.FROSITE_BRICK_STAIRS);
         frostbrickPool.slab(ModBlocks.FROSITE_BRICK_SLAB);
