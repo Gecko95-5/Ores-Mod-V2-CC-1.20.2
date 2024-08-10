@@ -42,6 +42,7 @@
     "oresmod:titanium_alloy_block",
     "oresmod:nether_cobalt_ore",
     "oresmod:cobalt_block",
+    "oresmod:flint_block",
     "oresmod:white_sandstone",
     "oresmod:white_sandstone_stairs",
     "oresmod:white_sandstone_slab",
@@ -106,6 +107,8 @@
     "oresmod:chiseled_marble",
     "oresmod:gilded_marble",
     "oresmod:gilded_marble_bricks",
+    "oresmod:smooth_marble",
+    "oresmod:smooth_marble_slab",
     "oresmod:polished_andesite_bricks",
     "oresmod:polished_andesite_brick_stairs",
     "oresmod:polished_andesite_brick_slab",
@@ -149,6 +152,8 @@
     "oresmod:ice_brick_slab",
     "oresmod:ice_brick_wall",
     "oresmod:end_ite_ore",
-    "#oresmod:ite_blocks"
+    "oresmod:carving_station",
+    "#oresmod:ite_blocks",
+    "#oresmod:carved_blocks"
   ]
 }

@@ -1,4 +1,4 @@
-// 1.20.2	2024-05-25T00:11:16.4141724	Overwhelming Ores Mod/Tags for minecraft:worldgen/biome
+// 1.20.2	2024-08-09T22:20:32.4506118	Overwhelming Ores Mod/Tags for minecraft:worldgen/biome
 bdb1d6dba4109bb21201c0ae72faa423d0cbd839 data\minecraft\tags\worldgen\biome\without_wandering_trader_spawns.json
 48093d453145b5b1d29e6c5a66817796a8cc2f74 data\oresmod\tags\worldgen\biome\is_end_islands.json
 9a4d55f86858b681746daacca86f2ab7a2868faa data\minecraft\tags\worldgen\biome\has_structure\ruined_portal_desert.json
@@ -11,7 +11,8 @@ bdb1d6dba4109bb21201c0ae72faa423d0cbd839 data\minecraft\tags\worldgen\biome\with
 3fe1c0cec6fc31c893268b3bf2d1338b37388a0e data\minecraft\tags\worldgen\biome\is_overworld.json
 d704ccfb8987f18db0107b857fd3b5332ac86ce8 data\oresmod\tags\worldgen\biome\is_quarry.json
 2b4e9f1796c44398ebd1e25435ef83a65697cac9 data\oresmod\tags\worldgen\biome\is_quarry_mountain.json
-3fe1c0cec6fc31c893268b3bf2d1338b37388a0e data\minecraft\tags\worldgen\biome\has_structure\mineshaft.json
+6572e244195b41317fc27f8885c10e8e8346e199 data\minecraft\tags\worldgen\biome\has_structure\pillager_outpost.json
+08027d42789b54fa240605596db26d3f23d5ca9f data\minecraft\tags\worldgen\biome\has_structure\mineshaft.json
 c0205756f611d28417064ff17aec4ef9d4825495 data\oresmod\tags\worldgen\biome\has_frosite.json
 8b494ea04651b8b0f6a58ca5ecc5718ae447c81b data\oresmod\tags\worldgen\biome\is_quarry_flat.json
 de782e65e2893d03f18134307818a87f224b3bc2 data\minecraft\tags\worldgen\biome\spawns_white_rabbits.json
